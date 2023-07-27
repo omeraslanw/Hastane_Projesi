@@ -87,6 +87,7 @@
             this.sifreTxt.Name = "sifreTxt";
             this.sifreTxt.Size = new System.Drawing.Size(242, 39);
             this.sifreTxt.TabIndex = 2;
+            this.sifreTxt.Text = "001122";
             this.sifreTxt.UseSystemPasswordChar = true;
             // 
             // TcMsktxt
@@ -97,6 +98,7 @@
             this.TcMsktxt.Name = "TcMsktxt";
             this.TcMsktxt.Size = new System.Drawing.Size(242, 39);
             this.TcMsktxt.TabIndex = 1;
+            this.TcMsktxt.Text = "22222222222";
             this.TcMsktxt.ValidatingType = typeof(int);
             // 
             // uyeOlLink
